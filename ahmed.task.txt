@@ -1,0 +1,10 @@
+'''   
+try:
+  X= int(input("input an integar:" ))
+  print(X)
+except:    
+  print("something went wrong ")
+finally:
+  print("try except finished")
+  
+''' 

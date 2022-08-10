@@ -1,0 +1,19 @@
+''' 
+
+num1 = int (input("ENTER THE FIRST NUMBER"))
+num2 = int (input("ENTER THE SECOND NUMBER"))
+op = input ("ENTER OPERATOR")
+
+if op == "+":
+    print( "this addition operator"+ num1+num2)
+elif op== "-":
+    print("this abstraction operator"+ num1-num2)
+elif op == "*":
+    print( " this multiplication operator"+ num1*num2) 
+elif op== "/":
+    print(" this division operator" + num1/num2)
+else :
+    print("invalid operator ")  
+    
+    
+    ''' 
